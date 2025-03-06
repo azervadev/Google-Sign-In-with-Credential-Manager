@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Credential Manager</string>
+    <string name="btn.google">Continue with Google</string>
+</resources>
